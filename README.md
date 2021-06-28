@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- <div>
+ <div align="center">
   <a href="https://github.com/JeanBauch">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanBauch&layout=compact&langs_count=16&theme=dracula"/>
 </div>
